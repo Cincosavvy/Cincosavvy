@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cincosavvy MARNIER CROCKTON
-- 👀 I’m interested in Machine learning, AI, Java and algorithmns 
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on anything with machine learning
-- 📫 How to reach me: Linkedin or calendly 
+- 👀 I’m interested in ML, AI, Cyber and Fullstack development
+- 🌱 I’m currently learning Cyber Defense & Information Assurance at Temple University
+- 💞️ I’m looking to collaborate on anything technical (especially AI)
+- 📫 How to reach me: Linkedin!
 
 <!---
 Cincosavvy/Cincosavvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
