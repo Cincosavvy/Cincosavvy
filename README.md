@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cincosavvy MARNIER CROCKTON
+- 👋 Hi, I’m MARNIER CROCKTON
 - 👀 I’m interested in ML, AI, Cyber and Fullstack development
 - 🌱 I’m currently learning Cyber Defense & Information Assurance at Temple University
 - 💞️ I’m looking to collaborate on anything technical (especially AI)
