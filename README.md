@@ -33,7 +33,7 @@ I’m open to collaborating on **technical and research-driven projects**, espec
 If it pushes boundaries or solves real problems, I’m interested.
 
 ## 📫 Let’s Connect
-- **LinkedIn:** *(add your link here)*  
+- **LinkedIn:** 
 
 ---
 
