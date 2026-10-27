@@ -17,6 +17,7 @@ I study how to defend the systems that run the physical world: industrial contro
 ### 📂 Selected work
 | Project | What it is |
 |---|---|
+| [modbus-watch](https://github.com/Cincosavvy/modbus-watch) | Reads packet captures and flags suspicious Modbus/TCP activity: unauthorized writes, PLC restart commands, device scanning |
 | [port-scanner](https://github.com/Cincosavvy/port-scanner) | Python TCP port scanner for service discovery |
 | [spinning-donuts](https://github.com/Cincosavvy/spinning-donuts) | The classic ASCII 3D torus, ported to the browser ([live demo](https://cincosavvy.github.io/spinning-donuts/)) |
 | **JARVIS** *(in development)* | Personal AI assistant: hub-and-spoke multi-agent architecture, voice pipeline, React HUD |
